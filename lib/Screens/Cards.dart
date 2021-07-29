@@ -61,7 +61,7 @@ class Cards extends StatelessWidget {
                           flex: 6,
                           child: Center(
                             child: Text(
-                              'UPI',
+                              'UPIjhjhk',
                               style: TextStyle(
                                   fontSize: 35, fontWeight: FontWeight.bold),
                             ),
